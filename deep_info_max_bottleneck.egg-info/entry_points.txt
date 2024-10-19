@@ -1,0 +1,2 @@
+[console_scripts]
+deep_info_max_bottleneck = deep_info_max_bottleneck.cli:main

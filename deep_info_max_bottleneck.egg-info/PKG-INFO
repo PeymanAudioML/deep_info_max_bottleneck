@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: deep-info-max-bottleneck
+Version: 0.1.0
+Summary: A brief description of your package
+Home-page: https://github.com/yourusername/your_package
+Author: Peyman Poozesh
+Author-email: Poozesh.peyman@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.25.1
+Requires-Dist: numpy>=1.19.2
+
+# Deep Info Max Bottleneck
+
+A brief description of your package, its purpose, and functionalities.
+
+## Installation
+
+```bash
+pip install deep_info_max_bottleneck

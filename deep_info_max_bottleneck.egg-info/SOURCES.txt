@@ -1,0 +1,13 @@
+README.md
+setup.py
+deep_info_max_bottleneck/__init__.py
+deep_info_max_bottleneck/module1.py
+deep_info_max_bottleneck/module2.py
+deep_info_max_bottleneck.egg-info/PKG-INFO
+deep_info_max_bottleneck.egg-info/SOURCES.txt
+deep_info_max_bottleneck.egg-info/dependency_links.txt
+deep_info_max_bottleneck.egg-info/entry_points.txt
+deep_info_max_bottleneck.egg-info/requires.txt
+deep_info_max_bottleneck.egg-info/top_level.txt
+tests/__init__.py
+tests/test_module1.py
